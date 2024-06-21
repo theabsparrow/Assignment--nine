@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Luxurious Single-family Home",
+      "segment_name": "Single-family homes",
+      "description": "Experience luxury living in this spacious single-family home boasting modern amenities and stylish design.",
+      "price": "$1,200,000",
+      "status": "sale",
+      "area": "3,500 sq ft",
+      "location": "Sunnyvale, California",
+      "facilities": ["swimming pool", "outdoor patio", "home theater"],
+      "image": "https://i.ibb.co/LxH1Wp2/Luxury-single-home.png"
+    },
+    {
+      "id": 2,
+      "estate_title": "Downtown Apartment Living",
+      "segment_name": "Apartments",
+      "description": "Live in the heart of the city in this sleek and contemporary apartment offering stunning urban views and convenient access to amenities.",
+      "price": "$3,000/month",
+      "status": "sale",
+      "area": "1,000 sq ft",
+      "location": "New York City, New York",
+      "facilities": ["gym", "rooftop lounge", "concierge service"],
+      "image": "https://i.ibb.co/4Yg9H9t/downtown-appartment-building.png"
+    },
+    {
+      "id": 3,
+      "estate_title": "Charming Townhouse",
+      "segment_name": "Townhouses",
+      "description": "Discover the charm of this cozy townhouse featuring elegant interiors, a private garden, and a serene neighborhood ambiance.",
+      "price": "$800,000",
+      "status": "sale",
+      "area": "2,200 sq ft",
+      "location": "Charleston, South Carolina",
+      "facilities": ["fireplace", "garden", "garage"],
+      "image": "https://i.ibb.co/4THTM8c/chaqrming-townhouse.png"
+    },
+    {
+      "id": 4,
+      "estate_title": "Student Housing Complex",
+      "segment_name": "Student housing",
+      "description": "Ideal student living awaits in this modern housing complex offering furnished apartments, study lounges, and a vibrant community atmosphere.",
+      "price": "$1,200/month",
+      "status": "rent",
+      "area": "800 sq ft",
+      "location": "Austin, Texas",
+      "facilities": ["study lounge", "fitness center", "game room"],
+      "image": "https://i.ibb.co/yWcYLZt/student-houseing-complex.png"
+    },
+    {
+      "id": 5,
+      "estate_title": "Upscale Senior Living Community",
+      "segment_name": "Senior living communities",
+      "description": "Enjoy retirement in style at this upscale senior living community offering resort-like amenities, wellness programs, and personalized care services.",
+      "price": "$5,500/month",
+      "status": "rent",
+      "area": "1,200 sq ft",
+      "location": "Scottsdale, Arizona",
+      "facilities": ["swimming pool", "spa", "restaurant-style dining"],
+      "image": "https://i.ibb.co/GCG1qFt/Senoir-living-community-l.png"
+    },
+    {
+      "id": 6,
+      "estate_title": "Beachfront Vacation Rental",
+      "segment_name": "Vacation rentals",
+      "description": "Escape to paradise in this beachfront vacation rental offering breathtaking ocean views, private beach access, and luxurious amenities.",
+      "price": "$400/night",
+      "status": "rent",
+      "area": "1,500 sq ft",
+      "location": "Maui, Hawaii",
+      "facilities": ["private beach access", "oceanfront balcony", "BBQ grill"],
+      "image": "https://i.ibb.co/BBS1KkC/beachfort-rental-houses.png"
+    },
+    {
+      "id": 7,
+      "estate_title": "Lakefront Cabin Retreat",
+      "segment_name": "Vacation rentals",
+      "description": "Experience the tranquility of lakefront living in this cozy cabin retreat, perfect for a weekend getaway or extended vacation.",
+      "price": "$250/night",
+      "status": "rent",
+      "area": "900 sq ft",
+      "location": "Lake Tahoe, California",
+      "facilities": ["fireplace", "private dock", "outdoor hot tub"],
+      "image": "https://i.ibb.co/sV2XFgf/lakefort-rental.png"
+    },
+    {
+      "id": 8,
+      "estate_title": "Modern Loft Living",
+      "segment_name": "Apartments",
+      "description": "Live in style in this industrial-chic loft featuring high ceilings, exposed brick, and panoramic city views.",
+      "price": "$2,500/month",
+      "status": "sale",
+      "area": "1,300 sq ft",
+      "location": "Los Angeles, California",
+      "facilities": ["rooftop pool", "fitness center", "private balcony"],
+      "image": "https://i.ibb.co/Tt6SWc3/Modern-loft-living-appartment.png"
+    },
+    {
+      "id": 9,
+      "estate_title": "Cozy Mountain Retreat",
+      "segment_name": "Vacation rentals",
+      "description": "Escape to the mountains in this charming retreat offering rustic charm, scenic views, and easy access to outdoor adventures.",
+      "price": "$300/night",
+      "status": "rent",
+      "area": "1,000 sq ft",
+      "location": "Aspen, Colorado",
+      "facilities": ["fire pit", "hiking trails nearby", "mountain views"],
+      "image": "https://i.ibb.co/R2K6WLz/coxy-mountain-retreat.png"
+    }
+  ]
+  

@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "John Smith",
+      "age": 35,
+      "image": "https://i.ibb.co/zHpKRHd/image2.png",
+      "statement": "Looking for a cozy family home in the suburbs.",
+      "address": "123 Main Street, Anytown, USA",
+      "phone_number": "+1 (123) 456-7890",
+      "feedback": "The agent was very knowledgeable and helped us find our dream home."
+    },
+    {
+      "id": 2,
+      "name": "Emily Johnson",
+      "age": 28,
+      "image": "https://i.ibb.co/fv1pqgm/image1.png",
+      "statement": "Seeking a modern condo with city views.",
+      "address": "456 Elm Street, Cityville, USA",
+      "phone_number": "+1 (234) 567-8901",
+      "feedback": "The agent provided excellent guidance throughout the buying process."
+    },
+    {
+      "id": 3,
+      "name": "Michael Williams",
+      "age": 42,
+      "image": "https://i.ibb.co/fv1pqgm/image1.png",
+      "statement": "Interested in waterfront properties for retirement.",
+      "address": "789 Oak Street, Seaside Town, USA",
+      "phone_number": "+1 (345) 678-9012",
+      "feedback": "We appreciated the agent's patience in helping us find the perfect beachfront property."
+    },
+    {
+      "id": 4,
+      "name": "Sarah Brown",
+      "age": 31,
+      "image": "https://i.ibb.co/6HsKMdG/image3.png",
+      "statement": "Looking for a spacious home with a backyard for pets.",
+      "address": "101 Pine Street, Countryside, USA",
+      "phone_number": "+1 (456) 789-0123",
+      "feedback": "The agent went above and beyond to negotiate a great deal for us."
+    },
+    {
+      "id": 5,
+      "name": "David Martinez",
+      "age": 39,
+      "image": "https://i.ibb.co/zHpKRHd/image2.png",
+      "statement": "Searching for a duplex for investment purposes.",
+      "address": "202 Maple Street, Metropolis, USA",
+      "phone_number": "+1 (567) 890-1234",
+      "feedback": "We were impressed by the agent's expertise in real estate investments."
+    },
+    {
+      "id": 6,
+      "name": "Jessica Lee",
+      "age": 29,
+      "image": "https://i.ibb.co/6HsKMdG/image3.png",
+      "statement": "Dreaming of a historic home with character and charm.",
+      "address": "303 Cedar Street, Old Town, USA",
+      "phone_number": "+1 (678) 901-2345",
+      "feedback": "The agent listened to our preferences and found us a beautiful historic home."
+    }
+  ]
+  
